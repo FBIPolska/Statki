@@ -188,7 +188,7 @@ public class Statki {
         {
             // Ruch gracza
             gra.wyswietlPlansze(gra.planszakomputera, false);
-            System.out.print("Podaj współrzędne (x y): ");
+            System.out.print("Podaj współrzędne: ");
             int x = scanner.nextInt();
             int y = scanner.nextInt();
 
